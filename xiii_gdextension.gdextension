@@ -1,0 +1,10 @@
+[configuration]
+
+entry_symbol = "xiii_library_init"
+compatibility_minimum = "4.6"
+reloadable = true
+
+[libraries]
+
+windows.debug.x86_64 = "res://bin/xiii_gdextension.dll"
+windows.release.x86_64 = "res://bin/xiii_gdextension.dll"

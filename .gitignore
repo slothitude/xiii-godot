@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+bin/
+.godot/
+
+# Godot CPP (submodule, large)
+godot-cpp/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
